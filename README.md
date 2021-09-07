@@ -1,7 +1,7 @@
 # movie-search-app-react
 a Movie Search App in React 
 
-![](MovieSearch.gif)
+![](MovieSearch.gif){:height="50%" width="50%"}
 
 ## Description
 This Movie Search app was created following the *Build a movie search app in React* Scrimba course (https://scrimba.com/learn/reactmovie).
